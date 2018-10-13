@@ -17,5 +17,5 @@ def create_project_hash
   projects[project] = {}
 end #end do loop
 
+projects
 end
-
