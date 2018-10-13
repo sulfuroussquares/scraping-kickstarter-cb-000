@@ -9,5 +9,5 @@ def create_project_hash
   # title: project.css("h2.bbcard_name strong a").text
   # image link: project.css("div.project-thumbnail a img").attribute("src").value
   # description: project.css("p.bbcard_blurb").text
-  # lcoation: project.css("location-name").text
+  # location: project.css("location-name").text
 end
