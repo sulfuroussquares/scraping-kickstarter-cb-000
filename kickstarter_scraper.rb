@@ -19,4 +19,3 @@ end #end do loop
 
 end
 
-puts create_project_hash
